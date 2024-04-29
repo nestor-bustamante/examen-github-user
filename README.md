@@ -34,3 +34,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Contexto
+
+Hace un montón de tiempo que no toco React, lo pueden ver en los repos públicos.
+
+## Qué hice?
+
+* _Paso 1_: Me la jugué con NextJS porque no me acordaba nada de React jajaja.
+* _Paso 2_: Generé un componente
+* _Paso 3_: Instalé la biblioteca **@tanstack/react-query**
+* _Paso 4_: Leí documentación y vi un par de videos sobre cómo aplicar esto y todos los dolores de cabeza
+* _Paso 5_: Entendí e hice la lógica
+* _Paso 6_: Añadí estilos con Tailwind
+
